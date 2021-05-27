@@ -1,0 +1,52 @@
+1. Singleton Pattern
+Singleton Pattern expecting a single object.
+-------------------------------------------------------------------------
+
+
+
+Factory Pattern 
+Factory class with factory method depending upon user's
+choice creating objects.
+-----------------------------------------------------------------------
+2. Abstract Factory Pattern
+
+Abstract Factory class which is creating Factory classes 
+and Factory classes in turn creating objects.
+
+https://codeonsunday.wordpress.com/2014/08/17/abstract-factory-design-pattern/
+
+
+3. Builder Pattern ( creational pattern)
+
+Builder pattern builds a complex object using simple objects
+https://www.tutorialspoint.com/design_pattern/builder_pattern.htm
+
+https://www.javatpoint.com/builder-design-pattern
+----------------------------------------------------------------------
+
+
+
+
+4. Adapter Pattern
+
+Adapter pattern works as a bridge between two incompatible interfaces. This type of design pattern comes under structural pattern as this pattern combines the capability of two independent interfaces.
+
+This pattern involves a single class which is called as an Adapter class and which is responsible to join functionalities of independent or incompatible interfaces. 
+---------------------------------------------------------------------
+
+
+
+
+
+-----------------------------------------------------------------
+5. Chain of Resposibility 
+http://gyanendushekhar.com/2016/09/05/chain-responsibility-design-pattern-c/#:~:text=Chain%20of%20responsibility%20design%20pattern%20comes%20under%20behavioral%20design%20pattern,four%20(GoF)%20design%20patterns.&text=Chain%20of%20responsibility%20design%20pattern%20decouples%20sender%20and%20receiver%20by,request%20with%20multiple%20sequential%20handlers.
+
+--------------------------------------------------------------
+6. Facade Pattern
+https://www.tutorialspoint.com/design_pattern/facade_pattern.htm
+-------------------------------------------------------------------------------------------------------------
+7. Mediator Pattern 
+--------------------------------------------------------------------------------------------------------
+8. Observer Pattern
+-----------------------------------------------------------------------------------------------------------
